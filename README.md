@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PatrykO92
-- 👀 I’m interested in nothing besides programing.
+- 👋 Hi, I’m Patryk, I live in Germany, but I come from Poland.
+- 👀 I’m interested in reading books and driving at longboard. 
 - 🌱 I’m currently learning Python.
 
 - 📫 How to reach me:
