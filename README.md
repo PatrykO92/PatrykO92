@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Patryk, I live in Germany, but I come from Poland.
-- 👀 I’m interested in reading books and driving at longboard. 
-- 🌱 I’m currently learning Python.
-- My CodeWars profile: https://www.codewars.com/users/PatrykO92
+- 👋 Hi, I’m Patryk, I live in Germany, but I come from Poland
+- 👀 My favorite book is "1984" by George Orwell
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS
 
 - 📫 How to reach me:
           patryk.orlowski1992@gmail.com
