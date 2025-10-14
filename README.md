@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk, I live in Germany, but I come from Poland
 - 👀 My favorite book is "1984" by George Orwell
-- 🌱 I’m currently learning TypeScript and Angular
+- 🌱 I’m currently learning Java Script
 
 - 📫 How to reach me:
           patryk.orlowski1992@gmail.com
