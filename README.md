@@ -1,8 +1,6 @@
 # Hey, I'm Patryk 👋
 
-🇵🇱 Originally from Poland, now living in Germany.  
-
-🎮 Most of my free time goes into **Grindwick**, a game I'm developing as a hobby.
+Originally from Poland, now living in Germany.  
 
 ## ⚔️ My main project: Grindwick
 
