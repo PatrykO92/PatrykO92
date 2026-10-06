@@ -6,7 +6,7 @@ Originally from Poland, now living in Germany.
 
 **Grindwick** is a pixel-art online action RPG that I'm building as a solo developer.
 
-🌐 [Website](https://grindwick.com/) · 💬 [Discord](https://discord.gg/2DeYRDD8B)
+🌐 [Website](https://grindwick.com/) · 💬 [Discord](https://discord.gg/kut4MfzxnG)
 
 ## 🛠️ What I work with
 
